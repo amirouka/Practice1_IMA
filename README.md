@@ -24,6 +24,7 @@
 ![Снимок 07 03 2025 в 21 28](https://github.com/user-attachments/assets/94955a00-eb25-4d52-b8a6-e14e201cb67f)
 После успешной сборки, приложение отобразилось на экране эмулятора
 ![Снимок 07 03 2025 в 21 29](https://github.com/user-attachments/assets/b67cf629-f59d-4308-be17-f3e7fae7d5a9)
+
 Глава 3. Компоненты экрана и их свойства
 В режиме отображения структуры проекта «Android» в модуле «layouttype» был открыт файл «activity_main.xml», находящийся в папке «res>layout».
 ![Снимок 07 03 2025 в 21 58](https://github.com/user-attachments/assets/b841f446-5f09-454c-8b72-4719eb20c568)
@@ -35,6 +36,7 @@
 ЗАДАНИЕ. Была выделена папка «res/layout» и создан новый «Layout resource file» с именем «linear_layout.xml». Результат:
 ![Снимок 07 03 2025 в 22 11](https://github.com/user-attachments/assets/e162f11e-8d5d-4370-b528-b3d2c1b5d809)
 ![Снимок 12 03 2025 в 19 52](https://github.com/user-attachments/assets/87e81b39-a55a-4d83-8945-241f0fdd98ba)
+
 ЗАДАНИЕ. Создать экран, приведенный на примере из файла. Результат:
 ![Снимок 07 03 2025 в 22 19](https://github.com/user-attachments/assets/f7ecf90d-80f6-4742-86a1-c5afb6244352)
 ЗАДАНИЕ. Создать TableLayout и экран, приведенный на примере из файла. Результат:
@@ -71,6 +73,7 @@
 ![Снимок 12 03 2025 в 20 13 (1)](https://github.com/user-attachments/assets/ddf23c37-1b90-4f63-a211-34816bb59a45)
 Итог:
 ![Снимок 12 03 2025 в 20 14](https://github.com/user-attachments/assets/8e25ee20-2d14-403e-8c90-59e1c3ffa4c1)
+
 Глава 7. Обработчики событий
 ЗАДАНИЕ. Требуется создать новый модуль. Название проекта «ButtonClicker». Результат:
 ![Снимок 12 03 2025 в 20 16](https://github.com/user-attachments/assets/a7540981-fd14-485e-9d5c-a1b96cda986f)
