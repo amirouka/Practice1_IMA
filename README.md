@@ -87,11 +87,17 @@
 ЗАДАНИЕ. Создайте обработчик события для кнопки «btnItIsNotMe» вторым способом. Добавьте элемент «CheckBox» изменяющий свое состояние при нажатии на кнопки вместе «TextView». Результат:
 Код MainActivity:
 ![Снимок 12 03 2025 в 20 23](https://github.com/user-attachments/assets/859e4bee-5ed4-43e6-971a-dfca6d24c1ba)
+
 Вывод (при нажатии "WHO AM I")
+
 ![Снимок 12 03 2025 в 20 24](https://github.com/user-attachments/assets/00613308-fcec-48cf-80c4-512f28eef6d5)
+
 Вывод (при первом нажатии "IT'S NOT ME")
+
 ![Снимок 12 03 2025 в 20 24 (1)](https://github.com/user-attachments/assets/8900db49-df33-4f76-91f2-ee8a13f14e64)
+
 Вывод (при втором нажатии "IT'S NOT ME")
+
 ![Снимок 12 03 2025 в 20 24 (2)](https://github.com/user-attachments/assets/0e3a27e1-b12c-4358-8fb7-22e219cf8a41)
 
 
